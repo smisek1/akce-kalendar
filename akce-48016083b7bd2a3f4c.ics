@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//akce-hlidac//CS
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Akce – mléko a Hello
+X-WR-TIMEZONE:Europe/Prague
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lidl-2026-11-16/hello-ovocna-kapsicka-200g@akce-hlidac
+DTSTAMP:20261118T100434Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261119
+SUMMARY:🍎 Lidl: Hello Ovocná kapsička 200 g – 11\,90 Kč
+DESCRIPTION:platí 16.11.–18.11.\, běžně 20\,90 Kč\, verdikt ojeb.cz:
+  nicmoc\nhttps://ojeb.cz/akce/lidl-2026-11-16/hello-ovocna-kapsicka-200g
+URL:https://ojeb.cz/akce/lidl-2026-11-16/hello-ovocna-kapsicka-200g
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:penny-2026-11-18/hello-ovocna-svacinka-190g@akce-hlidac
+DTSTAMP:20261118T100434Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261125
+SUMMARY:🍎 Penny: Hello Ovocná svačinka 190 g – 11\,90 Kč
+DESCRIPTION:platí 18.11.–24.11.\, běžně 14\,90 Kč\, verdikt ojeb.cz:
+  ojeb\nhttps://ojeb.cz/akce/penny-2026-11-18/hello-ovocna-svacinka-190g
+URL:https://ojeb.cz/akce/penny-2026-11-18/hello-ovocna-svacinka-190g
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:penny-2026-11-18/hello-ovocna-svacinka-200g@akce-hlidac
+DTSTAMP:20261118T100434Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261125
+SUMMARY:🍎 Penny: Hello Ovocná svačinka 200 g – 11\,90 Kč
+DESCRIPTION:platí 18.11.–24.11.\, běžně 20\,90 Kč\, verdikt ojeb.cz:
+  ojeb\nhttps://ojeb.cz/akce/penny-2026-11-18/hello-ovocna-svacinka-200g
+URL:https://ojeb.cz/akce/penny-2026-11-18/hello-ovocna-svacinka-200g
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:penny-2026-11-18/madeta-trvanlive-jihoceske-mleko-1l@akce-hlidac
+DTSTAMP:20261118T100434Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:🥛 Penny: Madeta Trvanlivé Jihočeské mléko 1 l – 9\,90 Kč
+DESCRIPTION:jen 21.11.\, verdikt ojeb.cz: nicmoc\nhttps://ojeb.cz/akce/penn
+ y-2026-11-18/madeta-trvanlive-jihoceske-mleko-1l
+URL:https://ojeb.cz/akce/penny-2026-11-18/madeta-trvanlive-jihoceske-mleko-
+ 1l
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
